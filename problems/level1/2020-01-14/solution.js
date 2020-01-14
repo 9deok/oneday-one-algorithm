@@ -1,5 +1,6 @@
 const solve = arr => {
-  console.log(arr);
+  let answer = arr.filter((a, i) => a !== arr[i + 1]);
+  console.log(answer);
 };
 
 //TEST CASE1

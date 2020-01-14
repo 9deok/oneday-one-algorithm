@@ -13,4 +13,4 @@ over the timelimit : seeing answer and understand code,process
 
 1.change directory of the file you want to test
 <br/>
-2.enter "node fileName.js"
+2.enter "node [fileName].js"
