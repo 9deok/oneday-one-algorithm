@@ -26,9 +26,7 @@ console.log(solution(a, b));
 /**
  * 프로그래머스 다른사람 문제 풀이
  */
-
 const otherSolution = (a, b) => {
-  let result = 0;
   return ((a + b) * (Math.abs(b - a) + 1)) / 2;
 };
 
