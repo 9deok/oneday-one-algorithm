@@ -1,6 +1,6 @@
 # oneday-one-algorithm
 
-resolve programmers site algorithm
+resolve programmers site algorithm by javascript
 
 # rules of one algorithm question
 
