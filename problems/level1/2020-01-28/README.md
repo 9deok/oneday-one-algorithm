@@ -1,14 +1,14 @@
 <h1>
   문제 설명
   <h1>
-    <img src="/images_problem/정수 내림차순으로 배치하기.png" />
+    <img src="/images_problem/정수 제곱근 판별.png" />
 
     <h1>문제 풀이 후 정리</h1>
 
     해결 여부 : O
 
     <br />
-    소요 시간 : 2분
+    소요 시간 : 3분
 
     <br />
     풀이 이해 여부 : O
