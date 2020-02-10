@@ -1,7 +1,6 @@
 <h1>
   문제 설명
   <h1>
-    <img src="/images_problem/나누어 떨어지는 숫자 배열.png" />
 
     <h1>문제 풀이 후 정리</h1>
 
