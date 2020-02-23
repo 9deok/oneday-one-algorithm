@@ -1,6 +1,6 @@
 <h1>
   문제 설명
-  <p>문제 링크 : https://programmers.co.kr/learn/courses/30/lessons/42588</p>
+  <p>문제 링크 : https://programmers.co.kr/learn/courses/30/lessons/42860</p>
 
   <h1>
     <h1>문제 풀이 후 정리</h1>
